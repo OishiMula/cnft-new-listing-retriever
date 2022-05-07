@@ -1,0 +1,26 @@
+{
+  "name": "cnft-listings-discord-bot",
+  "version": "1.0.0",
+  "description": "Generic Discord listing bot for CNFTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "cnft"
+  ],
+  "author": "Oishi Mula",
+  "license": "ISC",
+  "dependencies": {
+    "console-stamp": "^3.0.5",
+    "cross-fetch": "^3.1.5",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
